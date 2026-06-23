@@ -2,7 +2,7 @@
 
 The official website for **Stand Down Sanctuary and Farm**, a veteran-founded 501(c)(3) in Yelm, Washington, offering veterans, first responders, and their families healing through animals, farm life, and peer connection.
 
-🌐 **Live site:** https://techwithvictoria.github.io/stand-down-sanctuary/
+🌐 **Live site:** https://standdownsanctuaryandfarm.com/
 
 ---
 
